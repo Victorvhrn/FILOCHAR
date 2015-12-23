@@ -1,0 +1,16 @@
+5 4
+jabuti	10001
+zebra	11010
+cobra	00101
+rato	10100
+tread
+
+jz: jabuti vs zebra: 	12022
+jc: jabuti vs cobra: 	20201
+jr: jabuti vs rato: 	10202
+
+zc: zebra vs cobra:		22222
+zr: zebra vs rato:		12220
+
+cr: cobra vs rato:		20102
+

@@ -1,0 +1,18 @@
+instancias/ANGI.txt				222
+instancias/GRIS.txt				178
+instancias/TENU.txt				690		
+instancias/ETHE.txt				378
+instancias/ROPA.txt				334
+instancias/GOLO.txt				520
+instancias/SCHU.txt				781
+instancias/CARP.txt				567
+instancias/inst-25-60-3.txt
+instancias/inst-34-42-2.txt
+instancias/inst-47-60-6.txt
+instancias/inst-65-78-4.txt
+instancias/inst-65-89-2.txt
+instancias/inst-71-88-5.txt
+instancias/inst-80-39-4.txt
+instancias/inst-82-96-3.txt
+instancias/inst-89-65-2.txt
+instancias/inst-100-100-4.txt

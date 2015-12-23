@@ -1,0 +1,423 @@
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		0,133		221,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		0,097		221,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		0,251		221,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		0,103		221,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		2,530		221,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		1,655		221,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		5,109		221,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ANGI.txt		4,120		221,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		0,014		176,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		2,933		177,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		0,025		175,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		2,995		178,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		0,487		177,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		1,551		176,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		0,913		177,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GRIS.txt		2,736		177,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		0,952		689,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		0,501		689,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		4,446		689,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		0,401		689,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		12,435		689,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		6,262		689,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		40,453		689,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/TENU.txt		61,234		688,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		0,257		377,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		0,540		377,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		0,378		377,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		0,551		377,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		10,538		377,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		7,334		377,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		5,867		377,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ETHE.txt		10,596		377,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		0,758		333,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		2,429		333,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		2,601		333,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		1,944		333,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		27,882		333,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		17,800		333,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		100,674		333,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/ROPA.txt		114,332		333,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		0,516		518,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		2,466		518,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		1,758		518,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		6,421		517,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		17,190		518,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		10,190		519,0
+
+				ILS FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		117,141		519,0
+
+				ILS GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/GOLO.txt		64,400		519,0
+
+				GRASP FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		3,460		778,0
+
+				GRASP GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		3,111		779,0
+
+				GRASP FirstRotuGbr + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		10,585		779,0
+
+				GRASP GStepWR + PR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		5,384		780,0
+
+			ILS FirstRotuGbr com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		263,556		779,0
+
+			ILS GStepWR com valor alvo:
+Instancia		Tempo(s)		Valor Final
+instancias/SCHU.txt		99,696		780,0
+
+
+==============================================================================================
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		0,416		221,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		1,596		219,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		8,455		219,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		28,278		218,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		0,473		222,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		0,390		218,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		16,957		218,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ANGI.txt		8,840		218,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		0,468		173,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		2,387		177,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		12,412		172,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		42,411		175,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		0,536		173,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		0,671		173,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		12,152		172,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GRIS.txt		15,397		172,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		1,014		688,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		7,732		687,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		21,913		687,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		153,859		684,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		1,518		686,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		1,279		686,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		42,021		683,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/TENU.txt		27,675		683,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		0,603		376,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		2,938		377,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		11,908		375,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		55,110		375,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		0,733		377,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		0,801		377,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		16,614		378,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ETHE.txt		16,822		375,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		0,785		334,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		7,805		333,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		19,906		331,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		109,097		332,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		1,352		333,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		1,154		333,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		40,883		328,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/ROPA.txt		23,676		329,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		1,368		520,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		9,656		517,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		44,777		513,0
+
+Teste GRASP Gstep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		184,643		514,0
+
+Teste ILS Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		2,226		510,0
+
+Teste ILS GStep Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		2,023		511,0
+
+Teste ILS Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		65,411		505,0
+
+Teste ILS GStep + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/GOLO.txt		54,002		505,0
+
+Teste GRASP Rotu Full:
+Instancia		Tempo(s)		Valor
+instancias/SCHU.txt		1,981		781,0
+
+Teste GRASP Gstep Full:
+Instancia		Tempo(s)		Valor
+instancias/SCHU.txt		32,365		774,0
+
+Teste GRASP Rotu + PR Full:
+Instancia		Tempo(s)		Valor
+instancias/SCHU.txt		82,681		776,0
+
